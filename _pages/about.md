@@ -61,9 +61,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships
-- *Mar 2024 – Jul 2024*, **Internship**, VeriSilicon Holdings Co., Ltd., Chengdu, Sichuan, China (On-site)  
-  - Developed LTE-M automated testing scripts, including loading bin files and running batch test suites  
-  - Skills: SCPI, Embedded Operating Systems, +5 more
+- *Mar 2024 – Jul 2024*, **VeriSilicon Holdings Co., Ltd.**, Chengdu, Sichuan, China (On-site)  
+  - **Automated Testing Work**  
+    - Developed **LTE-M automated testing scripts**, including loading bin files, running batch test suites, utilizing **SCPI protocol** to control CMW500 for signaling tests, and automatically generating and saving log files  
+    - Contributed to **automation platform setup** (GitLab Runner + Jenkins) for regression testing validation and code standard checks  
+  
+  - **Communication Algorithm Work**  
+    - Designed and implemented **signal tracking algorithms** for GPS systems: PLL, FLL, C/A code tracking *(Individual)*  
+    - Implemented **FFT-based** and **energy-based frequency discriminators** for algorithm verification
  
 # 💼 Experience
 
