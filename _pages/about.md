@@ -64,7 +64,11 @@ My research interest includes neural machine translation and computer vision. I 
   
   - **Communication Algorithm Work**
     - Designed GPS tracking algorithms (PLL, FLL, C/A code tracking)  
-    - Implemented FFT- and energy-based frequency discriminators for verification  
+    - Implemented FFT- and energy-based frequency discriminators for verification
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
  
 # 💼 Experience
 
@@ -74,6 +78,4 @@ My research interest includes neural machine translation and computer vision. I 
   - Engaged in research on intelligent coding for communication channels and medical image processing
 - *Sep 2023 – Dec 2023*, **Teaching Assistant**, University of Glasgow, Chengdu, Sichuan, China
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
