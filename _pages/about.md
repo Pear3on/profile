@@ -28,8 +28,20 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+[**PHOENIX: Protocol State Machine Recovery from Events in 5G Logs**](#)  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom Workshop 2025</div><img src='images/PHOENIX.png' alt="phoenix" width="100%"></div></div>
+*Qingyuan Zheng, Ushasi Ghosh, Ali Mamaghani, Srinivas Shakkottai, and Dinesh Bharadia*  
+
+In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**GitHub**](https://github.com/ucsdwcsng/PHOENIX)
+
+[**Log Pruning for Efficient Q&A in 5G Networks**](#)  
+
+*Ali Mamaghani, Qingyuan Zheng, Ushasi Ghosh, Vicram Rajagopalan, Srinivas Shakkottai, and Dinesh Bharadia*  
+
+In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**GitHub**](https://github.com/qiz066/phoenix) [**Dataset**](https://github.com/qiz066/phoenix)
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom Workshop 2025</div><img src='images/PHOENIX.png' alt="phoenix" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**PHOENIX: Protocol State Machine Recovery from Events in 5G Logs**](#)  
@@ -51,7 +63,7 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**
 In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**GitHub**](https://github.com/qiz066/phoenix) [**Dataset**](https://github.com/qiz066/phoenix)
 
 </div>
-</div>
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
