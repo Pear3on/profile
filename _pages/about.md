@@ -100,6 +100,10 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**
 
 # 🎖 Honors and Awards
 
+- Jun. 2024, First-class Honors Degree at University of Glasgow
+- Sep. 2022, 2023, First-Class Outstanding Undergraduate Scholarship of UESTC
+- Sep. 2024, Outstanding Graduate of UESTC
+
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
  
