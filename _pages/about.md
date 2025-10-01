@@ -86,7 +86,7 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**
   MS in Communication Theory and System
 
 - *Sep 2020 – Jun 2024*, **University of Glasgow**  
-  BEng in Electronics and Electrical Engineering, Honours of the First Class, GPA: 3.8/4.0, Rank: Top 5%
+  BEng in Electronics and Electrical Engineering, **Honours of the First Class**, GPA: 3.8/4.0, Rank: Top 5%
 
 
 # 💬 Invited Talks
