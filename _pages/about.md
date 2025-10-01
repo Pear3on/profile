@@ -79,13 +79,14 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-
+[University of California San Diego](https://ucsd.edu/)
+[University of Glasgow](https://www.gla.ac.uk/)
 
 # 📖 Educations
-- *Jul 2024 – Now*, **[University of California San Diego](https://ucsd.edu/)**  
+- *Jul 2024 – Now*, **University of California San Diego**  
   MS in Communication Theory & System
 
-- *Sep 2020 – Jun 2024*, **[University of Glasgow](https://www.gla.ac.uk/) & University of Electronic Science and Technology of China**  
+- *Sep 2020 – Jun 2024*, **University of Glasgow & University of Electronic Science and Technology of China**  
   BEng in Electronics and Electrical Engineering, **Honours of the First Class**, GPA: 3.8/4.0, Rank: Top 5%
 
 
