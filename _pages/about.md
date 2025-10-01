@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom Workshop 2025</div><img src='images/phoenix.png' alt="phoenix" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom Workshop 2025</div><img src='images/500x300.png' alt="phoenix" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**PHOENIX: Protocol State Machine Recovery from Events in 5G Logs**](#)  
@@ -38,11 +38,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) | [**GitHub**](https://github.com/ucsdwcsng/PHOENIX)  
 
-- Introduces **PHOENIX**, a framework for recovering protocol state machines from raw 5G log events, enabling systematic analysis and verification.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom Workshop 2025</div><img src='images/logpruning.png' alt="logpruning" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom Workshop 2025</div><img src='images/500x300.png' alt="logpruning" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Log Pruning for Efficient Q&A in 5G Networks**](#)  
@@ -51,11 +50,10 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) | [
 
 In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) | [**GitHub**](https://github.com/qiz066/phoenix)  
 
-- Proposes **log pruning techniques** that reduce redundant log data, making **question answering on 5G logs more efficient** while preserving accuracy.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -67,7 +65,7 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) | [
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
 
