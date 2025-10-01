@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *Jul 2024 – Jun 2026*, **UC San Diego**  
+- *Jul 2024 – Jun 2026 (Now)*, **UC San Diego**  
   Master of Science – MS, Communication Theory and System
 
 - *Sep 2020 – Jun 2024*, **University of Glasgow**  
