@@ -85,12 +85,12 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) | [
 
 # 💻 Internships
 - *Mar 2024 – Jul 2024*, **VeriSilicon Holdings Co., Ltd.**, Chengdu, Sichuan, China (On-site)  
-  - **Automated Testing Work**
+  - *Automated Testing:*
     - Developed LTE-M test scripts (bin loading, batch execution, SCPI-controlled CMW500 signaling, automated log saving)  
     - Built automation platform with GitLab Runner + Jenkins for regression testing and code checks  
   
-  - **Communication Algorithm Work**
-    - Designed GPS tracking algorithms (PLL, FLL, C/A code tracking)  
+  - *Communication Algorithm:*
+    - Implemented GPS tracking algorithms (PLL, FLL, C/A code tracking)  
     - Implemented FFT- and energy-based frequency discriminators for verification
 
 # 🎖 Honors and Awards
