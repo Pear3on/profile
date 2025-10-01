@@ -53,12 +53,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *November 17-19 2025*, First OAI Foundation U.S. Hands-on Workshop, University of Texas at Austin, US 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships
 - *Mar 2024 – Jul 2024*, **VeriSilicon Holdings Co., Ltd.**, Chengdu, Sichuan, China (On-site)  
@@ -76,4 +72,8 @@ My research interest includes neural machine translation and computer vision. I 
   - Wireless Communications Sensing and Networking Group
 - *Sep 2022 – May 2024*, **Research Assistant**, University of Glasgow (Part-time, Hybrid), Chengdu, China  
   - Engaged in research on intelligent coding for communication channels and medical image processing
-- *Sep 2023 – Dec 2023*, **Teaching Assistant**, University of Glasgow, Chengdu, Sichuan, China  
+- *Sep 2023 – Dec 2023*, **Teaching Assistant**, University of Glasgow, Chengdu, Sichuan, China
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
