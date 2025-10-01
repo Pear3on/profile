@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom Workshop 2025</div><img src='images/500x300.png' alt="phoenix" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom Workshop 2025</div><img src='docs/motivation.pdf' alt="phoenix" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**PHOENIX: Protocol State Machine Recovery from Events in 5G Logs**](#)  
