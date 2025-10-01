@@ -90,7 +90,7 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**
 
 
 # 💬 Invited Talks
-- *November 17-19 2025*, First OAI Foundation U.S. Hands-on Workshop, University of Texas at Austin, US 
+- *Nov 17-19 2025*, First OAI Foundation U.S. Hands-on Workshop, University of Texas at Austin, US 
 
 
 # 💻 Internships
