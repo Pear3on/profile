@@ -47,8 +47,26 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Jul 2024 – Jun 2026*, **UC San Diego**  
+  Master of Science – MS, Communication Theory and System
+
+- *Sep 2020 – Jun 2024*, **University of Glasgow**  
+  Bachelor’s degree with Honours of the First Class, Electrical and Electronics Engineering
+
+# 💼 Experience
+
+- *Oct 2024 – Present*, **Research Assistant**, UC San Diego (Part-time), La Jolla Shores, California, United States (On-site)  
+  Wireless Communications Sensing and Networking Group
+
+- *Mar 2024 – Jul 2024*, **Internship**, VeriSilicon Holdings Co., Ltd., Chengdu, Sichuan, China (On-site)  
+  - Developed LTE-M automated testing scripts, including loading bin files and running batch test suites  
+  - Skills: SCPI, Embedded Operating Systems, +5 more
+
+- *Sep 2022 – May 2024*, **Research Assistant**, University of Glasgow (Part-time, Hybrid), Chengdu, China  
+  - Engaged in research on intelligent coding for communication channels and medical image processing
+
+- *Sep 2023 – Dec 2023*, **Teaching Assistant**, University of Glasgow, Chengdu, Sichuan, China  
+  - Monitored and guided students’ experimental work, graded reports and assignments, and conducted review tutorials
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
