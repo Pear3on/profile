@@ -62,13 +62,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *Mar 2024 – Jul 2024*, **VeriSilicon Holdings Co., Ltd.**, Chengdu, Sichuan, China (On-site)  
-  - **Automated Testing Work**  
-    - Developed **LTE-M automated testing scripts**, including loading bin files, running batch test suites, utilizing **SCPI protocol** to control CMW500 for signaling tests, and automatically generating and saving log files  
-    - Contributed to **automation platform setup** (GitLab Runner + Jenkins) for regression testing validation and code standard checks  
+  - **Automated Testing Work**
+    - Developed LTE-M test scripts (bin loading, batch execution, SCPI-controlled CMW500 signaling, automated log saving)  
+    - Built automation platform with GitLab Runner + Jenkins for regression testing and code checks  
   
-  - **Communication Algorithm Work**  
-    - Designed and implemented **signal tracking algorithms** for GPS systems: PLL, FLL, C/A code tracking *(Individual)*  
-    - Implemented **FFT-based** and **energy-based frequency discriminators** for algorithm verification
+  - **Communication Algorithm Work**
+    - Designed GPS tracking algorithms (PLL, FLL, C/A code tracking)  
+    - Implemented FFT- and energy-based frequency discriminators for verification  
  
 # 💼 Experience
 
