@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 *Qingyuan Zheng, Ushasi Ghosh, Ali Mamaghani, Srinivas Shakkottai, and Dinesh Bharadia*  
 
-In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) | [**GitHub**](https://github.com/ucsdwcsng/PHOENIX)  
+In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf)  |  [**GitHub**](https://github.com/ucsdwcsng/PHOENIX)  
 
 </div>
 </div>
@@ -48,7 +48,7 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) | [
 
 *Ali Mamaghani, Qingyuan Zheng, Ushasi Ghosh, Vicram Rajagopalan, Srinivas Shakkottai, and Dinesh Bharadia*  
 
-In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) | [**GitHub**](https://github.com/qiz066/phoenix) ｜ [**Dataset**](https://github.com/qiz066/phoenix)
+In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf)  |  [**GitHub**](https://github.com/qiz066/phoenix)  ｜  [**Dataset**](https://github.com/qiz066/phoenix)
 
 </div>
 </div>
