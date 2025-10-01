@@ -79,8 +79,6 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-[University of California San Diego](https://ucsd.edu/)
-[University of Glasgow](https://www.gla.ac.uk/)
 
 # 📖 Educations
 - *Jul 2024 – Now*, **University of California San Diego**  
