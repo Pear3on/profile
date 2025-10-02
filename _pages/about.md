@@ -98,14 +98,6 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**
   - Automated Testing: Developed LTE-M test scripts and automation platform (SCPI, CMW500, GitLab Runner, Jenkins)  
   - Communication Algorithm: Implemented GPS tracking (PLL, FLL, C/A) and frequency discriminators (FFT, energy-based)
 
-# 🎖 Honors and Awards
-
-- Jun. 2024, First-class Honors Degree at University of Glasgow
-- Sep. 2022, 2023, First-Class Outstanding Undergraduate Scholarship of UESTC
-- Sep. 2024, Outstanding Graduate of UESTC
-
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
  
 # 💼 Experience
 
@@ -114,5 +106,14 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**
 - *Sep 2022 – May 2024*, **Research Assistant**, University of Glasgow (Part-time, Hybrid), Chengdu, China  
   - Engaged in research on intelligent coding for communication channels and medical image processing
 - *Sep 2023 – Dec 2023*, **Teaching Assistant**, University of Glasgow, Chengdu, Sichuan, China
+
+# 🎖 Honors and Awards
+
+- Jun. 2024, First-class Honors Degree at University of Glasgow
+- Sep. 2022, 2023, First-Class Outstanding Undergraduate Scholarship of UESTC
+- Sep. 2024, Outstanding Graduate of UESTC
+
+<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
