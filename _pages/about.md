@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master’s student in Communication Theory and Systems at the University of California, San Diego (UCSD), where I am working as a Research Assistant with Prof. Dinesh Bharadia in the **[Wireless Communications, Sensing, and Networking Group](https://wcsng.ucsd.edu/)**. My research focuses on LLM-augmented reasoning over 5G/O-RAN logs, including log pruning, causal inference, and finite-state machine extraction, as well as the deployment of Edge-RIC in OAI-based 5G systems.
+I am a Master’s student in Communication Theory and Systems at the University of California, San Diego (UCSD), where I am working as a Research Assistant with [Prof. Dinesh Bharadia](https://dineshb-ucsd.github.io/) in the **[Wireless Communications, Sensing, and Networking Group](https://wcsng.ucsd.edu/)**. My research focuses on LLM-augmented reasoning over 5G/O-RAN logs, including log pruning, causal inference, and finite-state machine extraction, as well as the deployment of Edge-RIC in OAI-based 5G systems.
 
 Previously, I received a Bachelor of Engineering with First Class Honors in Electronics and Electrical Engineering from the **[University of Glasgow](https://www.gla.ac.uk/)**, in a joint program with the University of Electronic Science and Technology of China (UESTC). During my undergraduate studies, I also worked as a Research Assistant on intelligent communication coding for continuous signals and medical image processing.
 
