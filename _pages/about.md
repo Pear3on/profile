@@ -22,8 +22,10 @@ I am a Master’s student in Communication Theory and Systems at the University 
 Previously, I received a Bachelor of Engineering with First Class Honors in Electronics and Electrical Engineering from the University of Glasgow, in a joint program with the University of Electronic Science and Technology of China (UESTC). During my undergraduate studies, I also worked as a Research Assistant on intelligent communication coding for continuous signals and medical image processing.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: I will attend First OAI Foundation U.S. Hands-on Workshop at University of Texas at Austin. See you there!
+- *2025.9*: Our paper **Log Pruning for Efficient Q&A in 5G Networks** has been accepted by MobiCom Workshop 2025!  
+- *2025.9*: Our paper **PHOENIX: Protocol State Machine Recovery from Events in 5G Logs** has been accepted by MobiCom Workshop 2025!  
+- *2024.10*: Excited to announce I’ll be joining the **[Wireless Communications Sensing and Networking Lab (WCSNG)](https://wcsng.ucsd.edu/)** in the ECE Department at the **UCSD** as a MS student starting October 2024!   
 
 # 📝 Publications 
 
