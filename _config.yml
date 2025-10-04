@@ -27,7 +27,7 @@ author:
   location         : "La Jolla, US"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   qiz066@ucsd.edu  :
   email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
