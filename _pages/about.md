@@ -102,7 +102,7 @@ In *MobiCom Workshop*, 2025. [**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf) [**
 # 💼 Experience
 
 - *Oct 2024 – Present*, **Research Assistant**, UC San Diego (Part-time), La Jolla Shores, California, United States (On-site)  
-  - Wireless Communications Sensing and Networking Group
+  - Engaged in Wireless Communications Sensing and Networking Group
 - *Sep 2022 – May 2024*, **Research Assistant**, University of Glasgow (Part-time, Hybrid), Chengdu, China  
   - Engaged in research on intelligent coding for communication channels and medical image processing
 - *Sep 2023 – Dec 2023*, **Teaching Assistant**, University of Glasgow, Chengdu, Sichuan, China
