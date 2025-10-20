@@ -29,7 +29,7 @@ Previously, I received a Bachelor of Engineering with First Class Honors in Elec
 
 # 📝 Publications 
 
-**PHOENIX: Protocol State Machine Recovery from Events in 5G Logs** [[**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf)]  
+**PHOENIX: Protocol State Machine Recovery from Events in 5G Logs** [[**Paper**](https://pear3on.github.io/PHOENIX/Author%20Version.pdf)]  
 
   - *Qingyuan Zheng, Ushasi Ghosh, Ali Mamaghani, Srinivas Shakkottai, and Dinesh Bharadia*  
   
