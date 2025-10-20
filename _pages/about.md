@@ -35,7 +35,7 @@ Previously, I received a Bachelor of Engineering with First Class Honors in Elec
   
   - In *MobiCom Workshop*, 2025. [[**GitHub**](https://github.com/ucsdwcsng/PHOENIX)]
 
-**Log Pruning for Efficient Q&A in 5G Networks** [[**Paper**](docs/PHOENIX_S3__Camera_Ready_.pdf)]
+**Log Pruning for Efficient Q&A in 5G Networks** [[**Paper**](https://pear3on.github.io/PRISM-OpenAiRAN/author_version.pdf)]
 
   - *Ali Mamaghani, Qingyuan Zheng, Ushasi Ghosh, Vicram Rajagopalan, Srinivas Shakkottai, and Dinesh Bharadia*  
   
